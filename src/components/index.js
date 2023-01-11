@@ -1,0 +1,6 @@
+export { default as Navbar } from './Navbar'
+export { default as HeroSection } from './HeroSection'
+export { default as Opportunity } from './Opportunity'
+export { default as Education } from './Education'
+export { default as Success } from './Success'
+export { default as Footer } from './Footer'
