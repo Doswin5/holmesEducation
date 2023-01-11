@@ -24,7 +24,7 @@ const Navbar = () => {
       </div>
 
 
-      <div className="flex flex-1 justify-end sm:hidden items-center" >
+      <div className="flex sm:hidden items-center" >
         <img
           src={toggle ? close : menu}
           alt="menu"

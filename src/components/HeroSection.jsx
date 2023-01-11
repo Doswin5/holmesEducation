@@ -8,7 +8,7 @@ const HeroSection = () => {
       <img 
         src={heroSectionImage} 
         alt="hero section"
-        className=''
+        className='h-ful'
       />
       <div className="flex sm:flex-row flex-col justify-center items-center gap-[24px] sm:gap-[80px] py-[40px] sm:py-[80px] text-primary">
         {

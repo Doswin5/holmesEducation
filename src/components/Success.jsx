@@ -9,7 +9,7 @@ const Success = () => {
         <h1 className="font-medium">
           Set Yourself Up for Success
         </h1>
-        <h5 className="font-normal mt-[24px] mb-[40px] w-[90%]">
+        <h5 className="font-normal mt-[24px] mb-[40px] sm:w-[90%] w-[100%]">
           Holmes is a valuable option regardless
           of your family’s incomes, and a
           promising path to making a difference.

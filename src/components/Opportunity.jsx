@@ -6,7 +6,7 @@ const Opportunity = () => {
   return (
     <div className='flex flex-col text-onSecondary items-center'>
       <h3 className="font-bold">Opportunity</h3>
-      <p className='text-center font-normal w-[80%] mt-[12px] mb-[30px]'>
+      <p className='text-center font-normal w-[100%] sm:w-[80%] mt-[12px] mb-[30px]'>
         A life lived around one’s truth is meaningful and satisfying. A Holmes education offers the opportunity - the place, time, academics and environment - to help you find your unique talents and passions.
       </p>
       <button className='bg-primary text-onPrimary'>Request More Information</button>

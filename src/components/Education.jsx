@@ -7,7 +7,7 @@ const Education = () => {
     <div className='text-onSecondary my-[90px]'>
       <h6 className='font-bold text-primary'>Practice Advice</h6>
       <h3 className='font-bold'>Get Quality Education</h3>
-      <h6 className='text-[#737373] w-[35%]'>
+      <h6 className='text-[#737373] sm:w-[35%] w-[100%]'>
         Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics 
       </h6>
       <div className="flex sm:flex-row flex-col mt-[72px] sm:justify-between items-center gap-[40px]">
