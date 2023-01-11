@@ -6,7 +6,7 @@ const Success = () => {
     <div className='flex sm:flex-row flex-col items-center justify-between gap-[40px] my-[100px]'>
       <img src={successImage} alt="" />
       <div>
-        <h1 className="font-medium">
+        <h1 className="font-medium sm:text-[64px] text-[40px]">
           Set Yourself Up for Success
         </h1>
         <h5 className="font-normal mt-[24px] mb-[40px] sm:w-[90%] w-[100%]">
