@@ -13,7 +13,7 @@ const Footer = () => {
         <h6 className="font-light">+2345959483838</h6>
         <h6 className="font-light">into@homleseducation.com</h6>
       </div>
-      <div className="flex items-center gap-[50px]">
+      <div className="flex items-center gap-[24px] sm:gap-[50px]">
         <h6 className="font-normal">School polices</h6>
         <h6 className="font-normal">Privacy Policy</h6>
         <h6 className="font-normal">Map and Directions</h6>
